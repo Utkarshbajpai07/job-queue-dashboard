@@ -1,3 +1,6 @@
+Live Frontend: https://job-queue-dashboard-zeta.vercel.app
+Live Backend: https://job-queue-backend-5rtk.onrender.com
+
 # Mini Job Queue Dashboard
 
 A small job queue management dashboard: NestJS + TypeORM (SQLite by default,
